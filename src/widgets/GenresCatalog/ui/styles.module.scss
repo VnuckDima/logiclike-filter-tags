@@ -1,0 +1,7 @@
+.catalogWrapper {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(30%, 1fr));
+  grid-template-rows: auto;
+  gap: 18px;
+  align-self: start;
+}
