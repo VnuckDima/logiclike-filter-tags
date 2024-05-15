@@ -3,9 +3,9 @@ $bgColor: #ffffff;
 .cardWrapper {
   width: 100%;
   height: auto;
-  border: 1px solid #cfcfe4;
   border-radius: 18px;
   background-color: $bgColor;
+  box-shadow: 0 10px 13px -4px rgba(35, 35, 95, 0.19);
 }
 
 .cardImageWrapper {
